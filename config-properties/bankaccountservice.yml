@@ -1,10 +1,9 @@
 server:
-  port: 8020
-  
+  port: 8020  
 spring:
   data:
       mongodb:
-        uri: mongodb://localhost:27017/BankAccount
+        uri: mongodb://localhost:27017/bankAccount
 eureka:
   client:
     serviceUrl:
