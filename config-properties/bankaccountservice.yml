@@ -3,7 +3,7 @@ server:
 spring:
   data:
       mongodb:
-        uri: mongodb://localhost:27017/everis/bankAccount
+        uri: mongodb://localhost:27017/everis.bankAccount
 eureka:
   client:
     serviceUrl:
