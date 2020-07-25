@@ -3,7 +3,7 @@ server:
 spring:
   data:
       mongodb:
-        uri: mongodb://localhost:27017/bankAccount
+        uri: mongodb://localhost:27017/bezkoder_db/bankAccount
 eureka:
   client:
     serviceUrl:
